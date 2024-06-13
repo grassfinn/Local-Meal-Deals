@@ -1,0 +1,34 @@
+{
+  "day": {
+    "Sunday": {},
+    "Monday": {
+      "la jalisco": "$6 Burritos",
+      "smoking pig": "kid's Night"
+    },
+
+    "Tuesday": {
+      "smoking pig": "Shrimp Night",
+      "buffalo wild wings": "bone in wings bogo"
+    },
+    "Wednesday": {
+      "la jalisco": "",
+      "smoking pig": "60 Cents Wings"
+    },
+
+    "Thursday": {
+      "buffalo wild wings": "boneless wings bogo",
+      "la jalisco": "$1.50 Taco & Beer",
+      "smoking pig": "Bogo Beer, 1/2 App"
+    },
+
+    "Friday": {
+      "la jalisco": "2 for 1 margaritas"
+    },
+    "Saturday": {}
+  },
+  "addresses": {
+    "la jalisco": "1300 North Ashley Street",
+    "smoking pig": "4228 N Valdosta Rd",
+    "buffalo wild wings": "1553 Baytree Rd"
+  }
+}
